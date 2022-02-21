@@ -1,0 +1,23 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    background-color: #8bc2c4;
+}
+
+div {
+    display: flex;
+}
+
+
+div p {
+    display: inline-flex;
+    flex-direction: row;
+    margin-top: 3cm;
+    align-items: center;
+    
+}
+
+h1 {
+    display: inline-flex;
+    align-items: center;
+}
