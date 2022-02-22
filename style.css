@@ -2,22 +2,31 @@ body {
     font-family: 'Times New Roman', Times, serif;
     font-size: larger;
     background-color: #8bc2c4;
+    margin-left: 4cm;
+}
+
+span {
+font-size: 6ch;
+font-weight: 600;
 }
 
 div {
+   display: flex;
+   justify-content: space-between; 
+   align-items: center;
+
+}
+
+nav {
     display: flex;
-}
-
-
-div p {
-    display: inline-flex;
     flex-direction: row;
-    margin-top: 3cm;
-    align-items: center;
-    
+    justify-content: flex-end;
+    padding-right: 1cm;
+    padding-top: 3ch;
+
 }
 
-h1 {
-    display: inline-flex;
-    align-items: center;
+nav a {
+    padding-left: 1cm;
 }
+
