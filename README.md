@@ -1,5 +1,6 @@
 # nithi-project-website
-basic HTML file created
-nav bar included
-css created for index.html
-contact.html page included
+![tempsnip](https://user-images.githubusercontent.com/99227806/155842571-1b4878b9-fd22-4cdf-bfa4-51463b1b0629.png)
+**Build With**		
+<p>HTML</p>
+<p>CSS</p>
+
