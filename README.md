@@ -1,10 +1,16 @@
 # nithi-project-website
 
-![tempsnip](https://user-images.githubusercontent.com/99227806/155842571-1b4878b9-fd22-4cdf-bfa4-51463b1b0629.png)
-**Build With**		
+Personal Website
+
+<img src="image/tempsnip.png" alt="homepage screenshot">
+
+
+## Build With		
 <p>HTML</p>
 <p>CSS</p>
 
 ## License Used
-<p>MIT License</p>
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
 
